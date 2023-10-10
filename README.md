@@ -1,2 +1,3 @@
 # ATT_Analysis
-An investigation of the App Tracking Transparency (ATT) permission in iOS 
+
+This repo contains some of the tools and data used in the paper "ATTention Please! An Investigation of the App Tracking Transparency Permission". 
